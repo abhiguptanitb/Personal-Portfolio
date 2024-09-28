@@ -18,7 +18,7 @@ const works = [
         imgSrc: '/images/portfolio.png',
         title: 'My Portfolio',
         tags: ['React (Lenis, GSAP)', 'Tailwind CSS'],
-        projectLink: 'https://tictactoegame05.netlify.app/'
+        projectLink: 'https://abhiguptaportfolio05.netlify.app/'
     },
     {
         imgSrc: '/images/sidcup.jpg',
