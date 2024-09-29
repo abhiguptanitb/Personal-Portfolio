@@ -34,7 +34,7 @@ const works = [
     },
     {
         imgSrc: '/images/spotify.png',
-        title: 'Frontend - Spotify Clone',
+        title: 'Spotify Clone',
         tags: ['HTML', 'CSS'],
         projectLink: 'https://spotifyclone05.netlify.app/'
     },
